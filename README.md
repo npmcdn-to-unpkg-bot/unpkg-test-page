@@ -1,3 +1,3 @@
 # unpkg-test-page
 
-https://npmcdn.com
+https://unpkg.com
